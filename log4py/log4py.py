@@ -5,6 +5,7 @@ from logging.config import fileConfig
 import logging
 import os
 
+
 class log:
     """python logger util"""
 
